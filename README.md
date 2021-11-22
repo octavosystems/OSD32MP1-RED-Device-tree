@@ -5,10 +5,10 @@ This repository contains the device tree sources for OSD32MP1-RED
 
 | Package | Version |
 | ------- | ------- |
-| OpenSTLinux Developer Package | v1.2.0 |
-| U-Boot version | v2018.11-stm32mp-r3 |
-| TF-A version | v2.0-stm32mp-r1.5 |
-| Kernel Version | v4.19-stm32mp-r3 |
-| Cube Programmer | v2.5 |
+| OpenSTLinux Developer Package | v3.0.0 |
+| U-Boot version | v2020.10-stm32mp-r0 |
+| TF-A version | v2.4-stm32mp-r0 |
+| Kernel Version | v5.10-stm32mp-r0 |
+| Cube Programmer | v2.5 or greater |
 
 Developer Package istallation : https://wiki.st.com/stm32mpu-ecosystem-v1/wiki/STM32MP1_Developer_Package
