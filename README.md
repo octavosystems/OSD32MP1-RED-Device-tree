@@ -11,4 +11,4 @@ This repository contains the device tree sources for OSD32MP1-RED
 | Kernel Version | v5.10-stm32mp-r0 |
 | Cube Programmer | v2.5 or greater |
 
-Developer Package istallation : https://wiki.st.com/stm32mpu-ecosystem-v1/wiki/STM32MP1_Developer_Package
+Developer Package istallation : https://wiki.st.com/stm32mpu-ecosystem-v3/wiki/STM32MP1_Developer_Package
