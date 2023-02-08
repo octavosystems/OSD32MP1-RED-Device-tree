@@ -1,5 +1,5 @@
 # OSD32MP1-RED Device Tree
-This repository contains the device tree sources for OSD32MP1-RED
+This repository contains the device tree sources for OSD32MP1-RED (V1.1 and and V1.2)
 
 ## Requirements
 
